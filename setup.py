@@ -17,7 +17,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    author_email="entbappy73@gmail.com",
+    author_email="esheffi3@uncc.edu",
     packages=[SRC_REPO],
     license="N/A",
     python_requires=">=3.12",
